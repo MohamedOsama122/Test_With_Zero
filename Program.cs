@@ -6,3 +6,5 @@
 
 
 Console.WriteLine()($"Enter the radius of the circle: {CalculateArea(5)}  ");
+
+Console.WriteLine()($"Enter the radius of the circle: {CalculateArea(10)}  ");
